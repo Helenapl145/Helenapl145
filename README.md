@@ -4,13 +4,17 @@
 Helenapl145/Helenapl145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--👋 Oie, eu sou Helena estudante do ensino médio e em programação, mas gosto muito de aprender um pouco sobre tudo
+ -👋 Oie, eu sou Helena estudante do curso de Análise e desenvolvimento de sistema, mas gosto muito de aprender um pouco sobre tudo
 
  -📚 Atualmente estou estudando HTML, CSS e JavaScript para me aprimorar no desenvolvimento WEB.
  
--🌎 Você pode me achar em quase todas as redes sociais como instagram, tiktok, Linkedin  e Twitter com o @Helena.
+ -🎯 Tenho objetivo de ingressar na carreia  de desenvolvedora, aprender mais sobre a programação e ajudar com meu conhecimento.
+ 
+-🌎 Você pode me achar em quase todas as redes sociais como instagram, tiktok, Linkedin  e Twitter com o @Helenapl145.
 
 -✉ Se preferir pode entrar em contato pelo meu email helenapl145@gmail.com
 
--🎯 Tenho objetivo de ingressar na carreia  de desenvolvedora, aprender mais sobre a programação e ajudar com meu conhecimento.
+-📄 Aproveita para ver mais sobre mim no meu portifolio e só clicar nesse link https://portifolio-principal-three.vercel.app/
+
+
 
