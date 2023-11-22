@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
  
  -🎯 Tenho objetivo de ingressar na carreia  de desenvolvedora, aprender mais sobre a programação e ajudar com meu conhecimento.
  
--🌎 Você pode me achar em quase todas as redes sociais como instagram, tiktok, Linkedin  e Twitter com o @Helenapl145.
+-🌎 Você pode me achar no Linkedin pesquisando por @Helenapl145.
 
 -✉ Se preferir pode entrar em contato pelo meu email helenapl145@gmail.com
 
