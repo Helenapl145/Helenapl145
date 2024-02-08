@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
  -👋 Oie, eu sou Helena estudante do curso de Análise e desenvolvimento de sistema, mas gosto muito de aprender um pouco sobre tudo
 
- -📚 Atualmente estou estudando HTML, CSS e JavaScript para me aprimorar no desenvolvimento WEB.
+ -📚 Atualmente tenho conhecimento em HTML, CSS, JavaScript e React, estou sempre em constante avanço a procura de me especializar cada vez mais.
  
  -🎯 Tenho objetivo de ingressar na carreia  de desenvolvedora, aprender mais sobre a programação e ajudar com meu conhecimento.
  
