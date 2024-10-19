@@ -4,11 +4,9 @@
 Helenapl145/Helenapl145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -👋 Oie, eu sou Helena estudante do curso de Análise e desenvolvimento de sistema, mas gosto muito de aprender um pouco sobre tudo
+ -👋 Oie, me chamo Helena tenho 20, tenho experiência com análise de dados utilizando de SQL e atualmente estou me formando no curso de Análise e desenvolvimento de sistema. 
 
- -📚 Atualmente tenho conhecimento em HTML, CSS, JavaScript e React, estou sempre em constante avanço a procura de me especializar cada vez mais.
- 
- -🎯 Tenho objetivo de ingressar na carreia  de desenvolvedora, aprender mais sobre a programação e ajudar com meu conhecimento.
+ -📚 Tenho também  conhecimento em HTML, CSS, JavaScript e React focado no desenvolvimento WEB, estou sempre em constante avanço a procura de me especializar cada vez mais.
  
 -🌎 Você pode me achar no Linkedin pesquisando por @Helenapl145.
 
