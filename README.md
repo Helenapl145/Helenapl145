@@ -7,7 +7,7 @@ da utilização de SQL e ferramentas de BI com processo de ETL. Além disso, ten
 WEB com a utilização de JS, HTML e entre outras tecnologias.
 </p>
 
-### 🚀 Tecnologias que utilizo:
+### 💻 Tecnologias que utilizo:
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
