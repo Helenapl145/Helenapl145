@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 -✉ Se preferir pode entrar em contato pelo meu email helenapl145@gmail.com
 
--📄 Aproveita para ver mais sobre mim no meu portifolio e só clicar nesse link https://portifolio-principal-three.vercel.app/
+-📄 Aproveita para ver mais sobre mim no meu portifolio e só clicar nesse link: https://portifolio-tech-six.vercel.app/ 
 
 
 
